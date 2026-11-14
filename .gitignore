@@ -1,0 +1,6 @@
+# older CV drafts stay local; the published copy lives in assets/cv/
+CVs/
+.claude/
+node_modules/
+.DS_Store
+Thumbs.db
