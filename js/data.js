@@ -23,12 +23,12 @@ export const profile = {
   cv: 'assets/cv/Mohammad-Khallouf-CV.pdf',
   tagline: 'I build cross-platform apps that talk to the real world — from dental clinics to tire sensors.',
   summary: [
-    'Senior Flutter Developer with 5.5+ years of hands-on experience building cross-platform mobile, web, and desktop applications for Android, iOS, Web, and Windows.',
+    'Senior Flutter Developer with 6+ years of hands-on experience building cross-platform mobile, web, and desktop applications for Android, iOS, Web, and Windows.',
     'I have shipped production-grade apps across IoT, e-commerce, healthcare, and service-marketplace domains, and I lead a software team — defining roadmaps, running Agile workflows, and mentoring engineers.',
     'I care about clean architecture, BLoC state management, multi-flavor brand delivery, CI/CD, and code that is maintainable and well tested.',
   ],
   stats: [
-    { value: '5.5+', label: 'Years of experience' },
+    { value: '6+', label: 'Years of experience' },
     { value: '12+', label: 'Production apps' },
     { value: '4', label: 'Platforms shipped' },
     { value: '11', label: 'Languages localized' },
@@ -44,7 +44,7 @@ export const experience = [
     role: 'Software Department Manager & Senior Flutter Developer',
     company: 'Hexabitz',
     meta: 'Aleppo, Syria · On-site',
-    period: 'Dec 2020 – Present',
+    period: 'Dec 2020 – Sep 2026',
     points: [
       'Promoted to Software Department Manager in January 2025 while continuing as lead Flutter developer.',
       'Defined and executed department roadmaps, sprint plans, and team KPIs using Agile/Scrum and Jira.',
